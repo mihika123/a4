@@ -1,0 +1,4 @@
+<eval.ml>: coverage
+<test.{byte,native}>: coverage
+true: use_menhir, thread, package(ounit2), package(str)
+
